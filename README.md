@@ -1,1 +1,36 @@
 # Janaina_loucurasdasdivs.html
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        .myDiv {
+            border: 2px outset red;
+            background-color: blue;
+            margin: 5px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Loucuras das Divs!</h1>
+    <div class="myDiv">
+        <h2>Esquerda para cima.</h2>
+    </div>
+    <div class="myDiv">
+        <h3>
+            Esquerda para baixo.</h3>
+    </div>
+    <div class="myDiv">
+        <h4>Direita para cima</h4>
+    </div>
+    <div class="myDiv">
+        <h5>
+            Direita para baixo.</h5>
+    </div>
+
+    </div>
+</body>
+
+</html>
